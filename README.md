@@ -1,4 +1,4 @@
-# curso-git.pdf
+# curso-git-en-pdf
 Primer curso creado github.pdf
 
 ## Descripción
